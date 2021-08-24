@@ -21,6 +21,11 @@ const questions = [
     answer: "Jamshedpur",
   },
   {
+    question: "What subject I graduated in?",
+    options: ["Computer Science", "Physics"],
+    answer: "Physics",
+  },
+  {
     question: "My favourite CSS library/framework would be? ",
     options: ["Bootstrap", "TailwindCSS"],
     answer: "TailwindCSS",
@@ -29,6 +34,11 @@ const questions = [
     question: "First song I sang in TeamTanay's discord's server? ",
     options: ["Perfect", "Teri Jhuki Nazar"],
     answer: "Teri Jhuki Nazar",
+  },
+  {
+    question: "My favourite singer?",
+    options: ["Arijit Singh", "Rahat Fateh Ali Khan"],
+    answer: "Rahat Fateh Ali Khan",
   },
 ];
 
